@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/turmic/static/css/main.88404e20.css",
+    "main.js": "/turmic/static/js/main.e8c13422.js",
+    "static/js/787.d3befce1.chunk.js": "/turmic/static/js/787.d3befce1.chunk.js",
+    "index.html": "/turmic/index.html",
+    "main.88404e20.css.map": "/turmic/static/css/main.88404e20.css.map",
+    "main.e8c13422.js.map": "/turmic/static/js/main.e8c13422.js.map",
+    "787.d3befce1.chunk.js.map": "/turmic/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.e8c13422.js"
+  ]
+}
